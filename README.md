@@ -6,7 +6,7 @@
 
 <h1 align="center">✨Frontend Developer✨</h1>
 
-<h3 align="center">Computer Science graduate passionate about frontend development. Seeking an entry-level Frontend Developer role.</h3>
+<h3 align="center">🌱Computer Science graduate passionate about frontend development. Seeking an entry-level Frontend Developer role🌱</h3>
 
 <br/>
 
