@@ -36,8 +36,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,flutter,python,java,mysql," /><br>
     
 </div>
-
-<hr/>
  
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
