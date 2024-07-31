@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kee+Liu+Yap!;" />
 </h1>
 
-<h3 align="center">✨Computer Science graduate passionate about frontend development. Seeking an entry-level Frontend Developer role✨</h3>
+<h3 align="center">✨Computer Science graduate passionate about frontend development✨</h3>
 
 <br/>
 
