@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kee+Liu+Yap!;" />
 </h1>
 
-<h2 align="center">✨Frontend Developer✨</h2>
+<h1 align="center">✨Frontend Developer✨</h1>
+
+<h3>Computer Science graduate with a passion for frontend development and a strong aspiration to become a full-stack developer. Proficient in HTML, CSS, JavaScript, and React.js. Demonstrates exceptional problem-solving abilities and excels in creating dynamic, user-friendly web interfaces. Seeking an entry- level Frontend Developer position to apply both practical skills and theoretical knowledge effectively.</h3>
 
 <br/>
 
