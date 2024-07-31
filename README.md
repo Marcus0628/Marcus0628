@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kee+Liu+Yap!;" />
 </h1>
 
-<h3 align="center">✨Computer Science graduate passionate about frontend development✨</h3>
+<h3 align="center">✨Frontend Developer✨</h3>
 
 <br/>
 
@@ -30,13 +30,22 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Framework ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,flutter,python,java,mysql," /><br>
+    
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<br/>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,firebase,insomina" />
     
 </div>
+
 
 <br/>
 
