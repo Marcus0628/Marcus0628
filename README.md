@@ -30,17 +30,17 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages & Framework ⚒️</h2>
+<h2 align="center"> 📚 Languages & Framework 📚 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,flutter,python,java,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,dart,python,java,cpp,mysql," /><br>
     
 </div>
  
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,firebase,insomina" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vite,firebase,dart," />
     
 </div>
 
