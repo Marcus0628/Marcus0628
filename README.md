@@ -22,7 +22,7 @@
  
   <h2>🌟 About Me 🌟</h2>
 
-Computer Science graduate with a passion for frontend development and a strong aspiration to become a full-stack developer. Proficient in HTML, CSS, JavaScript, and React.js. Demonstrates exceptional problem-solving abilities and excels in creating dynamic, user-friendly web interfaces. Seeking an entry- level Frontend Developer position to apply both practical skills and theoretical knowledge effectively.
+Computer Science graduate with a passion for **Frontend Development** and a strong aspiration to become a **Full-Stack Developer**. Proficient in HTML, CSS, JavaScript, and React.js. Demonstrates exceptional problem-solving abilities and excels in creating dynamic, user-friendly web interfaces. Seeking an entry- level **Frontend Developer** position to apply both practical skills and theoretical knowledge effectively.
  </div> 
   
 
